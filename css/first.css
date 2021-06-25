@@ -2,7 +2,9 @@
 body{
     direction: rtl;
 }
+/* فایل های فونت وجود ندارند */
 @font-face{
+    /* این فونت تعریف شده  اما جایی استفاده نشده است */
     font-family: vazir;
     src: url(../session-9/fonts/Vazir-Bold.woff);
 }
