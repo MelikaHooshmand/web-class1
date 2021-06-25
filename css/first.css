@@ -1,0 +1,48 @@
+
+body{
+    direction: rtl;
+}
+@font-face{
+    font-family: vazir;
+    src: url(../session-9/fonts/Vazir-Bold.woff);
+}
+h1{
+    color: rgb(73, 163, 163);
+    background-color: rgb(245, 239, 66);
+}
+h2{
+    color: #8742f5;
+    background-color: rgb(245, 239, 66);
+}
+h3{
+    background-color: rgb(245, 239, 66);
+}
+*{
+    font-size: large;
+    font-weight: bold;
+}
+.head{
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: springgreen;
+}
+.first{
+    color: #4275f5;
+}
+.second{
+    color: seagreen;
+}
+h1,h2,h3{
+    font-style: oblique;
+}
+.paragraph1{
+    word-spacing: normal;
+}
+.paragraph2{
+    letter-spacing: normal;
+}
+a{
+    text-decoration-line: none;
+}
+
+
