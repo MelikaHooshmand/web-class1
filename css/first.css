@@ -6,6 +6,13 @@ body{
     font-family: vazir;
     src: url(../session-9/fonts/Vazir-Bold.woff);
 }
+/* حس می کنم دلیل اینکه درست نبود اینه که در تگ بادی از فونت فمیلی استفاده نکردم امیدوارم درست شده باشه */
+body{
+    font-family: vazir;
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+}
 h1{
     color: rgb(73, 163, 163);
     background-color: rgb(245, 239, 66);
@@ -16,10 +23,6 @@ h2{
 }
 h3{
     background-color: rgb(245, 239, 66);
-}
-*{
-    font-size: large;
-    font-weight: bold;
 }
 .head{
     text-decoration-line: underline;
